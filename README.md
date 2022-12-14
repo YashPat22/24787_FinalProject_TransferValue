@@ -15,8 +15,8 @@ Used Fifa 20 player data for POC but can use any such dataset
 3. Used Machine Learning Regression models like Linear Regression, SVR, Random Forest, etc. to benchmark 
 best possible algorithm
 
-#Usage:
+# Usage:
 Execute Jupyter Notebook with provided dataset or otherwise with a csv file of your own
 
-#Future Scope:
+# Future Scope:
 1. Incorporating real life data from Transfermarkt
